@@ -1,0 +1,29 @@
+body{font-size: 18px;}
+
+.container{width: 100%;margin: 0;}
+
+hr{size: 1px;width: 80%;height: 1px;border: none;margin: 0 auto;background-color: aquamarine;}
+
+.navbar{position: fixed;background-color: aquamarine;top: 0%;width: 100%;}
+
+.navbar ul{text-align: center;}
+
+.navbar li{display: flexbox;}
+
+.navbar a{color: rgb(red, green, blue);float: left;text-align: center;padding: 14px 16px;text-decoration: antiquewhite;font-size: 18px;display: block;}
+
+.navbar a:hover{background-color: aquamarine;color: aqua;}
+
+.pp img{margin-top: 60px;width: 400px;height: 400px;border-radius: 360px;max-width: 100%;height: auto;}
+
+table h2{background-color: aquamarine;margin-bottom: 5px;}
+
+table ul{background-color: aquamarine;margin: 0 0;}
+
+#Skill h2{border-top-left-radius: 15px;width: 200px;}
+
+#Skill ul{border-bottom-left-radius: 15px;}
+
+#Ekstrakulikuler h2{border-top-right-radius: 15px;width: 200px;}
+
+#Ekstrakulikuler ul{border-bottom-right-radius: 15px;}
